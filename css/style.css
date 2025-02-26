@@ -30,7 +30,7 @@ div.content {
 
   /* flex */
   display: flex;
-  /* flex-direction: column; */
+  flex-direction: column;
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
 }
